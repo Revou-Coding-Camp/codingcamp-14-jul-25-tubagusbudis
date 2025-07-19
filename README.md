@@ -1,26 +1,65 @@
-🧾 My Personal Website Portfolio - Tubagus
-Halo! 👋 Ini adalah website portofolio pribadi yang saya buat sebagai bagian dari pembelajaran dan tugas di RevoU Bootcamp 2025. Website ini dibangun menggunakan HTML, Tailwind CSS, dan sedikit JavaScript, serta mengusung konsep desain responsif dan clean dengan fitur dark mode bawaan.
+<h1 align="center">📁 My Website Portfolio - Tubagus</h1>
 
-✨ Fitur Utama:
-🎨 Dark Mode Toggle — otomatis tersimpan di localStorage
+<p align="center">
+  Website portofolio pribadi yang saya buat dengan semangat belajar dan eksplorasi di dunia web development 🚀
+</p>
 
-🧭 Navigasi responsif dengan tombol menu pada tampilan mobile
+---
 
-💻 Section “Learn Programming” — menampilkan ikon bahasa pemrograman yang saya pelajari
+## 🌐 Live Demo
 
-👤 About Me — mengenalkan profil singkat saya dan minat saya dalam dunia teknologi
+👉 [Lihat Website di GitHub Pages](https://revou-coding-camp.github.io/codingcamp-14-jul-25-tubagusbudis/)
 
-🧩 Portofolio Project Showcase — dua project awal yang sedang/sudah saya buat
+---
 
-📬 Message Us — form interaktif yang akan menampilkan data input pengguna secara langsung
+## 💡 Deskripsi Singkat
 
-⚙️ Tailwind CSS Utility-First — digunakan untuk animasi hover, transition, dan layout modern
+Website ini saya bangun sebagai tugas dari RevoU Bootcamp 2025. Tujuannya adalah sebagai portofolio digital untuk menampilkan skill saya dalam membuat website sederhana namun modern dan responsif.
 
-🚀 Teknologi yang Digunakan:
-HTML5
+Website ini sudah dilengkapi fitur dark mode, form interaktif, dan showcase portofolio project.
 
-Tailwind CSS
+---
 
-JavaScript (Vanilla)
+## 🧩 Fitur Utama
 
-Git & GitHub Pages
+- 🎨 Dark Mode Toggle (tersimpan di localStorage)
+- 🔍 Navigasi responsif dengan tombol menu mobile
+- 💻 Section _Learn Programming Languages_ menampilkan ikon bahasa yang saya pelajari
+- 👤 _About Me_ section untuk memperkenalkan profil singkat
+- 🧱 Portofolio project showcase (2 project awal)
+- 📨 Form _Message Us_ interaktif
+- ⚙️ Built using Tailwind CSS + vanilla JavaScript
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+| Teknologi       | Keterangan                   |
+| --------------- | ---------------------------- |
+| 🧾 HTML5        | Struktur utama web           |
+| 🎨 Tailwind CSS | Styling modern dan responsif |
+| ⚙️ JavaScript   | Interaksi form dan dark mode |
+| ☁️ Git & GitHub | Version control & deployment |
+
+---
+
+## 🧠 Insight Developer
+
+> Project ini menjadi awal langkah saya untuk membangun portofolio digital yang nyata. Saya berencana mengembangkan fitur-fitur baru seperti:
+>
+> - Form validation
+> - Integrasi API
+> - Blog mini pribadi
+> - Responsive UI di semua device
+
+---
+
+## 📌 Catatan
+
+Website ini akan terus saya update seiring berkembangnya skill saya di bidang front-end development dan UI/UX design.
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Tubagus</strong>
+</p>
