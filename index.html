@@ -92,7 +92,7 @@
       <main class="mt-5 flex flex-col gap-5">
         <!-- Home -->
         <section class="border border-gray-300 p-8 dark:border-gray-600">
-          <h1 class="text-3xl font-bold">Welcome To My Website Portofolio</h1>
+          <h1 id="home-title" class="text-3xl font-bold">Hi there 👋</h1>
           <p class="text-gray-600 mt-1">
             Ini adalah website portofolio untuk tugas RevoU Bootcamp 2025
           </p>
@@ -353,6 +353,14 @@
           icon.innerText = "🌞";
         }
       });
+      
+      // Prompt untuk nama
+  const visitorName = prompt("Hi! What's your name?") || "Guest";
+
+  const homeTitle = document.getElementById("home-title");
+  if (homeTitle) {
+    homeTitle.innerText = `Hi ${visitorName}, welcome to my portfolio!`;
+  }
     </script>
   </body>
 </html>
